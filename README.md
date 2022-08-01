@@ -1,2 +1,3 @@
 # muy_complex
-*A learning process of basic python and sth else *
+
+_A learning process of basic python and sth else_
