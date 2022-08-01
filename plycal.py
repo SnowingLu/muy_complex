@@ -113,8 +113,6 @@ def p_error(p):
 parser = yacc.yacc()
 
 
-print(2**50)
-
 while True:
   try:
     s=input('>please input an expression\n')
