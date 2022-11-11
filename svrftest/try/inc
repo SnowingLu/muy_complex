@@ -1,0 +1,6 @@
+
+layer c a 2
+layer a 1;
+b = area a < b+1
+variable b 1;
+c = area b < b
